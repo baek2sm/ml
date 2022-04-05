@@ -2,6 +2,7 @@
 > 이 저장소는 <b>이토록 쉬운 머신러닝&딥러닝 입문 with 사이킷런 + 파이토치</b> (홍승백 저, 루비페이퍼 출판사, 2021년 8월 20일 출간)의 실습 코드를 제공합니다.
 - 본 책은 python 3.7, torch 1.9.0, torchvision 0.10.0, torchtext 0.10.0 버전을 기준으로 작성되었습니다.
 - 책 관련 문의사항은 baek2sm@naver.com 으로 메일주시면 답변드리겠습니다.
+- 잘못된 내용이 없도록 원고의 내용을 수차례 검토했으나, 미처 남아있는 오류는 [정오표](/ERRATA.md)의 내용을 참고해 주세요. 학습에 불편을 드려 죄송합니다.
 - 책 구매 링크: [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791186710692) / [YES24](http://www.yes24.com/Product/Goods/103412517) / [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K932734583&start=pnaver_02)
 <hr>
 
